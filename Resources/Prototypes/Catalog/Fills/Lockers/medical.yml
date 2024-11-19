@@ -15,9 +15,6 @@
       - id: Bloodpack
         amount: 2
       - id: Gauze
-        amount: 2
-      - id: BoneMesh
-        amount: 1
 
 - type: entity
   id: LockerWallMedicalFilled

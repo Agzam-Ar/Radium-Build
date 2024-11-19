@@ -1,0 +1,20 @@
+- type: entity
+  id: LockerMedicineRadiumFilled
+  suffix: Filled
+  parent: LockerMedicine
+  components:
+  - type: StorageFill
+    contents:
+      - id: BoxSyringe
+      - id: EpinephrineChemistryBottle
+        amount: 1
+      - id: Brutepack
+        amount: 2
+      - id: Ointment
+        amount: 2
+      - id: Bloodpack
+        amount: 2
+      - id: Gauze
+        amount: 2
+      - id: BoneMesh
+        amount: 1
